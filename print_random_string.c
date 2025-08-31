@@ -19,7 +19,7 @@ char* rand_string_alloc(size_t size)
 
 
 int main()
-
+t
 {
     char *str;
     size_t size =   ;  //specify a value for size of word
